@@ -1,0 +1,58 @@
+{
+    "name": "awaiskhan18/resman",
+    "description": "ResMan is a PHP class that provides a convenient way to handle API responses with standard status codes and response structures. It includes methods for handling validation errors, success responses, and failure responses.",
+    "autoload": {
+        "classmap": [
+        ],
+        "psr-4": {
+            "App\\": "app/",
+            "Awaiskhan18\\ResMan\\": "packages/awaiskhan18/resman/src"
+        }
+    },
+    "license": "MIT",
+    "type": "library",
+    "keywords": [
+        "Laravel",
+        "API",
+        "Response"
+    ],
+    "authors": [
+        {
+            "name": "Awais Khan",
+            "homepage": "https://github.com/awaiskhan18"
+        }
+    ],
+    "homepage": "https://github.com/awaiskhan18",
+    "support": {
+
+    },
+    "funding": [
+
+    ],
+    "require": {
+
+    },
+    "require-dev": {
+
+    },
+    "provide": {
+        "psr/clock-implementation": "1.0"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "autoload": {
+
+    },
+    "autoload-dev": {
+
+    },
+    "config": {
+
+    },
+    "extra": {
+
+    },
+    "scripts": {
+
+    }
+}
