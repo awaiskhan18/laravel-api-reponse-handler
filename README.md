@@ -60,6 +60,6 @@ ResMan includes the following constants that can be used to represent different 
     ResMan::STATUS_SUCCESS (200) - Represents a successful response.
     ResMan::STATUS_ERROR (401) - Represents an error response.
 
-##License
+## License
 
 This package is open-source software licensed under the MIT License. See the LICENSE file for more information.
